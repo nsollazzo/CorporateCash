@@ -2,9 +2,9 @@
 
 # Intro
 
-Suppose that CorporateCash is a centralised database operated by the CorporateCash Group (a collection of companies). As such, those using CorporateCash are fully dependent on these companies to allow them to make payments. It's supply is unpredictable and uncapped and users sacrifice their privacy by using CorporateCash. It is not a 'cryptocurrency', it is a voucher scheme run by a group of corporations. 
+Suppose that CorporateCash is a centralised database operated by the CorporateCash Group (a collection of companies). As such, those using CorporateCash are fully dependent on these companies to allow them to make payments. Its supply is unpredictable and uncapped and users sacrifice their privacy by using CorporateCash. It is not a 'cryptocurrency', it is a voucher scheme run by a group of corporations. 
 
-Bitcoin is a peer to peer value transfer system operated by anyone who wishes to partake. Individuals using Bitcoin are fully independent, and do not need permission from anyone to make payments. Bitcoin's supply is predictable and limited, and it will soon become the hardest money the world has ever had. It is digital gold, run by the people.
+In contrast, Bitcoin is a peer to peer value transfer system operated by anyone who wishes to partake. Individuals using Bitcoin are fully independent, and do not need permission from anyone to make payments. Bitcoin's supply is predictable and limited, and it will soon become the hardest money the world has ever had. It is digital gold, run by the people.
 
 Don't be misled by buzzwords (i.e. 'blockchain' & 'distributed'), CorporateCash is no competitor to Bitcoin.
 
