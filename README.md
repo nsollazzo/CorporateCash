@@ -1,4 +1,4 @@
-*Disclaimer: This website compares Bitcoin to a ficticious generic centralised 'cryptocurrency' called "CorporateCash".* 
+*Disclaimer: This website compares Bitcoin to a ficticious generic centralised token called "CorporateCash". It is intended as a thought experiment and any similarities with real projects are unintentional.* 
 
 # Intro
 
