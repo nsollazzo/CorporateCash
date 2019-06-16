@@ -1,6 +1,3 @@
-# CorporateCash
-Explaining the difference between CorporateCash &amp; Bitcoin
-
 *Disclaimer: This website compares Bitcoin to a ficticious generic centralised 'cryptocurrency' called "CorporateCash". 
 
 ### Intro
