@@ -1,6 +1,6 @@
 *Disclaimer: This website compares Bitcoin to a ficticious generic centralised 'cryptocurrency' called "CorporateCash".* 
 
-### Intro
+# Intro
 
 CorporateCash is a centralised database operated by the CorporateCash Group (a collection of companies). As such, those using CorporateCash are fully dependent on these companies to allow them to make payments. It's supply is unpredictable and uncapped and users sacrifice their privacy by using CorporateCash. It is not a 'cryptocurrency', it is a voucher scheme run by a group of corporations. 
 
@@ -8,7 +8,7 @@ Bitcoin is a peer to peer value transfer system operated by anyone who wishes to
 
 Don't be misled by buzzwords (i.e. 'blockchain' & 'distributed'), CorporateCash is no competitor to Bitcoin.
 
-### Comparison Overview
+# Comparison Overview
 
 There are significant fundamental differences between CorporateCash and Bitcoin. Click the feature to read more.
 
@@ -25,6 +25,8 @@ There are significant fundamental differences between CorporateCash and Bitcoin.
 
 ---
 ### Supply
+
+Bitcoins supply is superior to that of any CorporateCash because it is predictable & capped.
 
 <details>
 <summary>Bitcoin</summary>
@@ -47,6 +49,9 @@ Read more about the supply of bitcoins [here](https://en.bitcoin.it/wiki/Control
 
 ---
 ### New Tokens
+
+Bitcoins method of issuing new tokens is superior to that of any CorporateCash because it does not rely upon a centralised group to decide who gets the new tokens.
+
 <details>
 <summary>Bitcoin</summary>
 <br>
@@ -61,6 +66,9 @@ New bitcoins are added to the supply by miners. Anyone can become a bitcoin mine
 
 ---
 ### Transaction Security
+
+Bitcoin transactions are more secure than any CorporateCash because it does not permit a centralised group to reverse long confirmed transactions.
+
 <details>
 <summary>Bitcoin</summary>
 <br>
@@ -75,6 +83,9 @@ The more confirmations a bitcoin transaction has, the less likely the transactio
 
 ---
 ### Rule Enforcement
+
+The rules of Bitcoin are enforced by individual users of bitcoin, which is a superior system to that of a CorporateCash which relies upon the trustworthiness of a group of companies. 
+
 <details>
 <summary>Bitcoin</summary>
 <br>
@@ -90,6 +101,9 @@ To run a full node see [this guide](https://bitcoin.org/en/full-node) or the [bi
 
 ---
 ### Privacy
+
+Bitcoin can be used without having to submit personal information, whereas CorporateCash requires all users to provide their identity information so that their spending habbits can be tracked and sold.
+
 <details>
 <summary>Bitcoin</summary>
 <br>
@@ -105,6 +119,9 @@ The tools to stay private while using bitcoin are becoming increasingly easy to 
 
 ---
 ### Censorship Resistance
+
+Bitcoin allows anyone to send value. CorporateCash only allows those who's ideology they support.
+
 <details>
 <summary>Bitcoin</summary>
 <br>
