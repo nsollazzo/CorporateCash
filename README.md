@@ -23,6 +23,7 @@ There are significant fundamental differences between CorporateCash and Bitcoin.
 
 # Detailed Comparison
 
+---
 ### Supply
 
 <details>
@@ -38,6 +39,13 @@ Bitcoins are issued at a predictable, decreasing rate, and the last bitcoin will
 Read more about the supply of bitcoins [here](https://en.bitcoin.it/wiki/Controlled_supply). 
 </details>
 
+<details>
+<summary>CorporateCash</summary>
+<br>
+  
+</details>  
+
+---
 ### New Tokens
 <details>
 <summary>Bitcoin</summary>
@@ -45,6 +53,13 @@ Read more about the supply of bitcoins [here](https://en.bitcoin.it/wiki/Control
 New bitcoins are added to the supply by miners. Anyone can become a bitcoin miner by running free mining software on their computer. Because normal computers are not optimised for mining bitcoin the electricity cost will be far greater than the value of the bitcoin mined. To be more profitable you can buy hardware from one of a growing number of companies who make special computers designed just to mine bitcoin.
 </details>
 
+<details>
+<summary>CorporateCash</summary>
+<br>
+  
+</details>  
+
+---
 ### Transaction Security
 <details>
 <summary>Bitcoin</summary>
@@ -52,6 +67,13 @@ New bitcoins are added to the supply by miners. Anyone can become a bitcoin mine
 The more confirmations a bitcoin transaction has, the less likely the transaction could be reversed. Once a transaction has 6 confirmations (~1 hour after the first confirmation) it is very secure. 
 </details>
 
+<details>
+<summary>CorporateCash</summary>
+<br>
+  
+</details>  
+
+---
 ### Rule Enforcement
 <details>
 <summary>Bitcoin</summary>
@@ -60,6 +82,13 @@ Anyone can run a bitcoin full node which verifies the validity of the current st
 To run a full node see [this guide](https://bitcoin.org/en/full-node) or the [bitcoin node launcher](https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340).
 </details>
 
+<details>
+<summary>CorporateCash</summary>
+<br>
+  
+</details>  
+
+---
 ### Privacy
 <details>
 <summary>Bitcoin</summary>
@@ -68,12 +97,25 @@ You don't need to provide any personal information to use Bitcoin. To receive bi
 The tools to stay private while using bitcoin are becoming increasingly easy to use, and the tools used to break users privacy are becoming increasingly useless by breaking the common [heuristics](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy). 
 </details>
 
+<details>
+<summary>CorporateCash</summary>
+<br>
+  
+</details>  
+
+---
 ### Censorship Resistance
 <details>
 <summary>Bitcoin</summary>
 <br>
 Because you don't need to provide personal information to use Bitcoin, it is not possible to censor individuals using bitcoin (provided they maintain their privacy) because you can't link a user with their coins.  
 </details>
+
+<details>
+<summary>CorporateCash</summary>
+<br>
+  
+</details>  
 
 # FAQ's
 
