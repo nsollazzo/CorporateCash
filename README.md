@@ -18,9 +18,9 @@ There are significant fundamental differences between CorporateCash and Bitcoin.
 | Feature                                           | CorporateCash                       | Bitcoin                                   |
 | -------------------------                         | -------------------         | ------------------                        |
 | [Supply](#supply)                                 | Uncapped                    | Capped at 21,000,000                      |
-| [New Tokens](#new-tokens)                         | Issued by ~30 Companies     | Issued by anyone running mining hardware  | 
+| [New Tokens](#new-tokens)                         | Issued by Companies         | Issued by anyone running mining hardware  | 
 | [Transaction Security](#transaction-security)     | Weak (Can be reversed)      | Strong (With 6+ confirmations)            |
-| [Rule Enforcement](#rule-enforcement)             | ~30 Companies               | Anyone running their own node             |
+| [Rule Enforcement](#rule-enforcement)             | Companies                   | Anyone running their own node             |
 | [Privacy](#privacy)                               | Not Private                 | Can be private (like Cash)                |
 | [Censorship Resistance](#censorship-resistance)   | Weak (Censored)             | Strong (Uncensorable)                     | 
 
