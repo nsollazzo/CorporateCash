@@ -161,8 +161,8 @@ Corporations have terms of service. If users break these terms they are often bl
 
 ### Is CorporateCash an easy way to get Bitcoin?
 
-It is widely believed that CorporateCash Node Operators (the CorporateCash Group) will be able to link transactions with user accounts and that there will be no way to use CorporateCash anonymously. 
-If these predictions are correct using CorporateCash to buy bitcoin will have significant privacy implications because the transaction will link the bitcoin you buy to your identity. Bitcoin privacy tools (such as CoinJoin) will help limit this issue somewhat, but it is better to acquire bitcoin without providing your personal information.
+CorporateCash Node Operators (the CorporateCash Group) can link transactions with user accounts, there will be no way to use CorporateCash anonymously. 
+Using CorporateCash to buy bitcoin will have significant privacy implications because the transaction will link the bitcoin you buy to your identity. Bitcoin privacy tools (such as CoinJoin) help limit this issue somewhat, but it is better to acquire bitcoin without providing your personal information.
 
 ### Its it free to send CorporateCash?
-It has been reported that CorporateCash can be sent with zero fees. It is not free to send CorporateCash; as with many modern services the cost is likley to be your personal data. It is expected that the reason companies are willing to spend Millions of Dollars to be a part of the CorporateCash Group is to access consumer spending data.
+CorporateCash claims to have zero fees. It is not free to send CorporateCash; as with many modern services the cost is likley to be your personal data. 
