@@ -1,4 +1,4 @@
-*Disclaimer: This website compares Bitcoin to a ficticious generic centralised token called "CorporateCash". It is intended as a thought experiment and any similarities with real projects are unintentional.* 
+*This website compares Bitcoin to a ficticious centralised digital token/voucher called "CorporateCash", any similarities with real projects are unintentional.* 
 
 # Intro
 
@@ -31,7 +31,7 @@ Bitcoins supply is superior to that of any CorporateCash because it is predictab
 <details>
 <summary>Bitcoin</summary>
 <br>
-The supply of bitcoins is set in code and enforced by the bitcoiners using full nodes (see [Rule Enforcement](#rule-enforcement)). 
+The supply of bitcoins is set in code and enforced by the bitcoiners using full nodes (see Rule Enforcement). 
 For these bitcoiners, checking the current bitcoin supply can be done with the command `> bitcoin-cli gettxoutsetinfo`.
 Bitcoins are issued at a predictable, decreasing rate, and the last bitcoin will be issued in the year 2140. 
 
@@ -39,12 +39,14 @@ Bitcoins are issued at a predictable, decreasing rate, and the last bitcoin will
 *[Image Source](http://bashco.github.io/Bitcoin_Monetary_Inflation/)*
 
 Read more about the supply of bitcoins [here](https://en.bitcoin.it/wiki/Controlled_supply). 
+<br>
 </details>
 
 <details>
 <summary>CorporateCash</summary>
 <br>
-  
+There is no limit on the supply of CorporateCash. Like with fiat currency ($/£/€) the holders of CorporateCash cannot predict the future supply of the 'currency'.
+<br> 
 </details>  
 
 ---
@@ -56,12 +58,14 @@ Bitcoins method of issuing new tokens is superior to that of any CorporateCash b
 <summary>Bitcoin</summary>
 <br>
 New bitcoins are added to the supply by miners. Anyone can become a bitcoin miner by running free mining software on their computer. Because normal computers are not optimised for mining bitcoin the electricity cost will be far greater than the value of the bitcoin mined. To be more profitable you can buy hardware from one of a growing number of companies who make special computers designed just to mine bitcoin.
+<br>
 </details>
 
 <details>
 <summary>CorporateCash</summary>
 <br>
-  
+The issuance of CorporateCash is entirely controlled by CorporateCash Group (a collection of companies). They can choose to issue as much CorporateCash as they desire in the same way that an individual can issue as many IOU's to their friends as they desire. Users of CorporateCash not only have to trust that these companies are trustworthy, but that the companies have perfect security, because if an attacker compromises the companies they can create as much CorporateCash as they like.
+<br>  
 </details>  
 
 ---
@@ -73,12 +77,14 @@ Bitcoin transactions are more secure than any CorporateCash because it does not 
 <summary>Bitcoin</summary>
 <br>
 The more confirmations a bitcoin transaction has, the less likely the transaction could be reversed. Once a transaction has 6 confirmations (~1 hour after the first confirmation) it is very secure. 
+<br>
 </details>
 
 <details>
 <summary>CorporateCash</summary>
 <br>
-  
+The CorporateCash Group have full control over the network, they can reverse any transaction after the fact if they so desire. For this reason no CorporateCash transaction can every be deemed final or settled.
+<br>  
 </details>  
 
 ---
@@ -91,12 +97,14 @@ The rules of Bitcoin are enforced by individual users of bitcoin, which is a sup
 <br>
 Anyone can run a bitcoin full node which verifies the validity of the current state of the bitcoin network (the UTXO set) and rejects attempts to make invalid transactions (for example a transaction that generates 1000 bitcoin out of nowhere). By using their full node to manage their bitcoin they can use bitcoin without having to trust anyone. For example, to know their bitcoin balance they can check the balance of their addresses using their full node (they don't have to ask some other 3rd party to tell them their balance). 
 To run a full node see [this guide](https://bitcoin.org/en/full-node) or the [bitcoin node launcher](https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340).
+<br>
 </details>
 
 <details>
 <summary>CorporateCash</summary>
 <br>
-  
+CorporateCash Group run the network and have complete control over any rule changes. This could include making old transactions invalid or taking 10% of all users holdings. Users have must accept rule changes and have no method of recourse.
+<br>  
 </details>  
 
 ---
@@ -109,12 +117,16 @@ Bitcoin can be used without having to submit personal information, whereas Corpo
 <br>
 You don't need to provide any personal information to use Bitcoin. To receive bitcoin you just need to generate a bitcoin address and give it to the person sending you bitcoin. This address isn't linked to your identity, but care needs to be taken to keep it this way. There are tools available to help you keep your bitcoin privacy including [wasabi](https://wasabiwallet.io/), [joinmarket](https://github.com/Joinmarket-Org/joinmarket-clientserver) and [whirlpool](https://github.com/Samourai-Wallet/whirlpool-client). 
 The tools to stay private while using bitcoin are becoming increasingly easy to use, and the tools used to break users privacy are becoming increasingly useless by breaking the common [heuristics](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy). 
+<br>
 </details>
 
 <details>
 <summary>CorporateCash</summary>
 <br>
-  
+Companies have headquarters. These headquarters are often located in countries with strict laws governing transfer of value or money transmitting. To avoid the risk of encountering legal issues with the state companies often go above and beyond the legal requirements and require identity verification for users of products that could be considered financial instruments. 
+This means that users of CorporateCash have to link their identity to their accounts, which means that CorporateCash Group can surveil the financial transactions of all of their users. 
+Financial transactions reveal a lot of information are a valuable data source. Companies often sell such data to advertisers and frequently lose control of the data to hackers who sell the data to criminals. 
+<br>  
 </details>  
 
 ---
@@ -126,12 +138,14 @@ Bitcoin allows anyone to send value. CorporateCash only allows those who's ideol
 <summary>Bitcoin</summary>
 <br>
 Because you don't need to provide personal information to use Bitcoin, it is not possible to censor individuals using bitcoin (provided they maintain their privacy) because you can't link a user with their coins.  
+<br>
 </details>
 
 <details>
 <summary>CorporateCash</summary>
 <br>
-  
+Corporations have terms of service. If users break these terms they are often blocked from using the services offered by the Corporation. Given that CorporateCash is run by companies it too has terms of service, and breaking these terms will result in users losing access to their CorporateCash. Increasingly companies are targeting users who hold specific views or opinions and finding rule violations is often easy given the huge number of rules that users must agree to in order to use the service. This means that users of CorporateCash are at the whim of the CorporateCash Group.
+<br>  
 </details>  
 
 # FAQ's
