@@ -41,13 +41,15 @@ Bitcoins supply is superior to that of any CorporateCash because it is predictab
 <summary>Bitcoin</summary>
 <br>
 The supply of bitcoins is set in code and enforced by the bitcoiners using full nodes (see Rule Enforcement). 
-For these bitcoiners, checking the current bitcoin supply can be done with the command `> bitcoin-cli gettxoutsetinfo`.
+For these bitcoiners, checking the current bitcoin supply can be done with the command <code> > bitcoin-cli gettxoutsetinfo </code>.
 Bitcoins are issued at a predictable, decreasing rate, and the last bitcoin will be issued in the year 2140. 
 
-![Bitcoin Supply](Images/Bitcoin_Monetary_Inflation.png)
-*[Image Source](http://bashco.github.io/Bitcoin_Monetary_Inflation/)*
+<img src=Images/Bitcoin_Monetary_Inflation.png alt="Bitcoin Supply">
 
-Read more about the supply of bitcoins [here](https://en.bitcoin.it/wiki/Controlled_supply). 
+*<a href="http://bashco.github.io/Bitcoin_Monetary_Inflation/">
+Image Source</a>*
+
+Read more about the supply of bitcoins <a href="https://en.bitcoin.it/wiki/Controlled_supply">here</a>. 
 <br>
 </details>
 
@@ -105,7 +107,7 @@ The rules of Bitcoin are enforced by individual users of bitcoin, which is a sup
 <summary>Bitcoin</summary>
 <br>
 Anyone can run a bitcoin full node which verifies the validity of the current state of the bitcoin network (the UTXO set) and rejects attempts to make invalid transactions (for example a transaction that generates 1000 bitcoin out of nowhere). By using their full node to manage their bitcoin they can use bitcoin without having to trust anyone. For example, to know their bitcoin balance they can check the balance of their addresses using their full node (they don't have to ask some other 3rd party to tell them their balance). 
-To run a full node see [this guide](https://bitcoin.org/en/full-node) or the [bitcoin node launcher](https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340).
+To run a full node see <a href="https://bitcoin.org/en/full-node">bitcoin.org</a> or the <a href="https://medium.com/lightning-power-users/windows-macos-lightning-network-284bd5034340">node launcher</a>.
 <br>
 </details>
 
@@ -124,8 +126,9 @@ Bitcoin can be used without having to submit personal information, whereas Corpo
 <details>
 <summary>Bitcoin</summary>
 <br>
-You don't need to provide any personal information to use Bitcoin. To receive bitcoin you just need to generate a bitcoin address and give it to the person sending you bitcoin. This address isn't linked to your identity, but care needs to be taken to keep it this way. There are tools available to help you keep your bitcoin privacy including [wasabi](https://wasabiwallet.io/), [joinmarket](https://github.com/Joinmarket-Org/joinmarket-clientserver) and [whirlpool](https://github.com/Samourai-Wallet/whirlpool-client). 
-The tools to stay private while using bitcoin are becoming increasingly easy to use, and the tools used to break users privacy are becoming increasingly useless by breaking the common [heuristics](https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy). 
+You don't need to provide any personal information to use Bitcoin. To receive bitcoin you just need to generate a bitcoin address and give it to the person sending you bitcoin. This address isn't linked to your identity, but care needs to be taken to keep it this way. There are tools available to help you keep your bitcoin privacy including <a href="https://wasabiwallet.io/">wasabi</a>, <a href="https://github.com/Joinmarket-Org/joinmarket-clientserver/">JoinMarket</a> and <a href="https://github.com/Samourai-Wallet/whirlpool-client/">whirlpool</a>. 
+The tools to stay private while using bitcoin are becoming increasingly easy to use, and the tools used to break users privacy are becoming increasingly useless by breaking the common <a href="https://en.bitcoin.it/wiki/Privacy#Blockchain_attacks_on_privacy">
+heuristics</a>. 
 <br>
 </details>
 
