@@ -44,7 +44,7 @@ The supply of bitcoins is set in code and enforced by the bitcoiners using full 
 For these bitcoiners, checking the current bitcoin supply can be done with the command <code> > bitcoin-cli gettxoutsetinfo </code>.
 Bitcoins are issued at a predictable, decreasing rate, and the last bitcoin will be issued in the year 2140. 
 
-<img src=Images/Bitcoin_Monetary_Inflation.png alt="Bitcoin Supply">
+<img src="/Images/Bitcoin_Monetary_Inflation.png" alt="Bitcoin Supply">
 
 *<a href="http://bashco.github.io/Bitcoin_Monetary_Inflation/">
 Image Source</a>*
