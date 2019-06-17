@@ -2,15 +2,16 @@
 
 # Intro
 
-Suppose that CorporateCash is a centralised database operated by the CorporateCash Group (a collection of companies). As such, those using CorporateCash are fully dependent on these companies to allow them to make payments. Its supply is unpredictable and uncapped and users sacrifice their privacy by using CorporateCash. It is not a 'cryptocurrency', it is a voucher scheme run by a group of corporations. 
+#### CorporateCash:
+A centralised database operated by the CorporateCash Group (a collection of companies). As such, those using CorporateCash are fully dependent on these companies to allow them to make payments. Its supply is unpredictable and uncapped and users sacrifice their privacy by using CorporateCash. 
+It is not a 'cryptocurrency', it is a voucher scheme run by a group of corporations. 
 
-In contrast, Bitcoin is a peer to peer value transfer system operated by anyone who wishes to partake. Individuals using Bitcoin are fully independent, and do not need permission from anyone to make payments. Bitcoin's supply is predictable and limited, and it will soon become the hardest money the world has ever had. It is digital gold, run by the people.
-
-Don't be misled by buzzwords (i.e. 'blockchain' & 'distributed'), CorporateCash is no competitor to Bitcoin.
+#### Bitcoin:
+A peer to peer value transfer system operated by anyone who wishes to partake. Individuals using Bitcoin are fully independent, and do not need permission from anyone to make payments. Bitcoin's supply is predictable and limited, and it will soon become the hardest money the world has ever had. It is digital gold, run by the people.
 
 # Comparison Overview
 
-There are significant fundamental differences between CorporateCash and Bitcoin. Click the feature to read more.
+There are significant fundamental differences between CorporateCash and Bitcoin. Click each feature to read more.
 
 | Feature                                           | CorporateCash               | Bitcoin                                   |
 | -------------------------                         | -------------------         | ------------------                        |
@@ -22,6 +23,14 @@ There are significant fundamental differences between CorporateCash and Bitcoin.
 | [Censorship Resistance](#censorship-resistance)   | Weak (Censorable)           | Strong (Uncensorable)                     | 
 
 # Detailed Comparison
+
+<details>
+<summary>Click the arrows to read more about each feature for both Bitcoin & CorporateCash</summary>
+<br>
+Yep, just like that!
+<br>
+</details>  
+
 
 ---
 ### Supply
