@@ -1,4 +1,4 @@
-*This website compares Bitcoin to a ficticious centralised digital token/voucher called "CorporateCash", any similarities with real projects are unintentional.* 
+*This website compares Bitcoin to a fictitious centralised digital token/voucher called "CorporateCash", any similarities with real projects are unintentional.* 
 
 # Intro
 
@@ -92,7 +92,7 @@ The more confirmations a bitcoin transaction has, the less likely the transactio
 <details>
 <summary>CorporateCash</summary>
 <br>
-The CorporateCash Group have full control over the network, they can reverse any transaction after the fact if they so desire. For this reason no CorporateCash transaction can every be deemed final or settled.
+The CorporateCash Group have full control over the network, they can reverse any transaction after the fact if they so desire. A CorporateCash transaction can ever be deemed final or settled.
 <br>  
 </details>  
 
@@ -112,14 +112,14 @@ To run a full node see [this guide](https://bitcoin.org/en/full-node) or the [bi
 <details>
 <summary>CorporateCash</summary>
 <br>
-CorporateCash Group run the network and have complete control over any rule changes. This could include making old transactions invalid or taking 10% of all users holdings. Users have must accept rule changes and have no method of recourse.
+CorporateCash Group run the network and has complete control over any rule changes. This could include making old transactions invalid or taking 10% of all users holdings. Users have must accept rule changes and have no method of recourse.
 <br>  
 </details>  
 
 ---
 ### Privacy
 
-Bitcoin can be used without having to submit personal information, whereas CorporateCash requires all users to provide their identity information so that their spending habbits can be tracked and sold.
+Bitcoin can be used without having to submit personal information, whereas CorporateCash requires all users to provide their identity information so that their spending habits can be tracked and sold.
 
 <details>
 <summary>Bitcoin</summary>
@@ -134,14 +134,14 @@ The tools to stay private while using bitcoin are becoming increasingly easy to 
 <br>
 Companies have headquarters. These headquarters are often located in countries with strict laws governing transfer of value or money transmitting. To avoid the risk of encountering legal issues with the state companies often go above and beyond the legal requirements and require identity verification for users of products that could be considered financial instruments. 
 This means that users of CorporateCash have to link their identity to their accounts, which means that CorporateCash Group can surveil the financial transactions of all of their users. 
-Financial transactions reveal a lot of information are a valuable data source. Companies often sell such data to advertisers and frequently lose control of the data to hackers who sell the data to criminals. 
+Financial transactions reveal a lot of information and are a valuable data source. Companies often sell such data to advertisers and frequently lose control of the data to hackers who sell the data to criminals. 
 <br>  
 </details>  
 
 ---
 ### Censorship Resistance
 
-Bitcoin allows anyone to send value. CorporateCash only allows those who's ideology they support.
+Bitcoin allows anyone to send value. CorporateCash only allows those whose ideology they support.
 
 <details>
 <summary>Bitcoin</summary>
@@ -164,5 +164,5 @@ Corporations have terms of service. If users break these terms they are often bl
 CorporateCash Node Operators (the CorporateCash Group) can link transactions with user accounts, there will be no way to use CorporateCash anonymously. 
 Using CorporateCash to buy bitcoin will have significant privacy implications because the transaction will link the bitcoin you buy to your identity. Bitcoin privacy tools (such as CoinJoin) help limit this issue somewhat, but it is better to acquire bitcoin without providing your personal information.
 
-### Its it free to send CorporateCash?
-CorporateCash claims to have zero fees. It is not free to send CorporateCash; as with many modern services the cost is likley to be your personal data. 
+### Is it free to send CorporateCash?
+CorporateCash claims to have zero fees. It is not free to send CorporateCash; as with many modern services the cost is likely to be your personal data. 
