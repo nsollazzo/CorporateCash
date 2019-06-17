@@ -46,8 +46,8 @@ Bitcoins are issued at a predictable, decreasing rate, and the last bitcoin will
 
 <img src="/Images/Bitcoin_Monetary_Inflation.png" alt="Bitcoin Supply">
 
-*<a href="http://bashco.github.io/Bitcoin_Monetary_Inflation/">
-Image Source</a>*
+<a href="http://bashco.github.io/Bitcoin_Monetary_Inflation/">
+Image Source</a>
 
 Read more about the supply of bitcoins <a href="https://en.bitcoin.it/wiki/Controlled_supply">here</a>. 
 <br>
