@@ -168,4 +168,4 @@ CorporateCash Node Operators (the CorporateCash Group) can link transactions wit
 Using CorporateCash to buy bitcoin will have significant privacy implications because the transaction will link the bitcoin you buy to your identity. Bitcoin privacy tools (such as CoinJoin) help limit this issue somewhat, but it is better to acquire bitcoin without providing your personal information.
 
 ### Is it free to send CorporateCash?
-CorporateCash claims to have zero fees. It is not free to send CorporateCash; as with many modern services the cost is likely to be your personal data. 
+CorporateCash claims to have zero fees. It is not free to send CorporateCash; as with many modern services the cost is likely to be your personal data. This personal data might include the following: Full Name, Address, Phone Number, Social Security Number, Bank Account Details, GPS Geo-Location, Carrier Information, list of Contact in the Contact Book on Device, Name of Merchants and sites and locations where it is used, Name of Purchased Products or Services and Name and Full Information of those whom you send or receive from.
